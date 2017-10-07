@@ -1,0 +1,9 @@
+E:\EllaLovise\Documents\Søknader\case_oppgaver\dips_2\bank\bank\bin\Debug\bank.exe.config
+E:\EllaLovise\Documents\Søknader\case_oppgaver\dips_2\bank\bank\bin\Debug\bank.exe
+E:\EllaLovise\Documents\Søknader\case_oppgaver\dips_2\bank\bank\bin\Debug\bank.pdb
+E:\EllaLovise\Documents\Søknader\case_oppgaver\dips_2\bank\bank\obj\Debug\bank.exe
+E:\EllaLovise\Documents\Søknader\case_oppgaver\dips_2\bank\bank\obj\Debug\bank.pdb
+E:\EllaLovise\Documents\Søknader\case_oppgaver\dips_2\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+E:\EllaLovise\Documents\Søknader\case_oppgaver\bank_utviklingsoppgave\bank\bin\Debug\bank.exe.config
+E:\EllaLovise\Documents\Søknader\case_oppgaver\bank_utviklingsoppgave\bank\obj\Debug\bank.exe
+E:\EllaLovise\Documents\Søknader\case_oppgaver\bank_utviklingsoppgave\bank\obj\Debug\bank.pdb
